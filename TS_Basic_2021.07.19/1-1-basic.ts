@@ -53,6 +53,7 @@
   }
 
   //object ->  원시타입을 제외한 모든 것들이 가능하다 따라서 가능하면 쓰지 말자
+  //이것도 깃허브에 서 잡힐까?
   let obj: object;
   obj = [];
   function acceptSomeObject(obj: object) {}
